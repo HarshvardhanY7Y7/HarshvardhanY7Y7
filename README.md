@@ -5,9 +5,8 @@
  I am a recent graduate with a Bachelor of Science in Computer Science. Throughout my academic journey, I developed a strong passion for cybersecurity, where I explored various techniques for securing systems and protecting data. I am driven by my dedication to solving complex problems and applying innovative solutions to real-world challenges. With a solid foundation in programming, data structures, and network security, I am excited to continue learning and contribute to the ever-evolving field of technology. I look forward to applying my skills and enthusiasm to make a positive impact in the world of cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has sparked a strong passion for cybersecurity, and I am eager to transition into this field. I am focused on joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can leverage my problem-solving skills, knowledge of security protocols, and ability to analyze security incidents. I am committed to continuously developing my expertise to effectively address the dynamic challenges in cybersecurity and contribute to the protection of organizational systems and data.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
