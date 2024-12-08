@@ -1,5 +1,6 @@
 # Hello, I'm Harshvardhan
-<a href="[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_2013.svg)](https://www.linkedin.com/in/harshvardhan-ghatole-484a1629a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BwJemQdiPTbGuSylGYK0mMw%3D%3D)
+<a href=[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_2013.svg" alt="LinkedIn" width="150"/>](https://www.linkedin.com/in/harshvardhan-ghatole-484a1629a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BwJemQdiPTbGuSylGYK0mMw%3D%3D)
+
 "><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
