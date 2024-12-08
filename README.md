@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/harshvardhan-ghatole-484a1629a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BwJemQdiPTbGuSylGYK0mMw%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  # Introduction 
- I a recent graduate with a Bachelor of Science in Computer Science. Throughout my academic journey, I developed a strong passion for cybersecurity, where I explored various techniques for securing systems and protecting data. I am driven by my dedication to solving complex problems and applying innovative solutions to real-world challenges. With a solid foundation in programming, data structures, and network security, I am excited to continue learning and contribute to the ever-evolving field of technology. I look forward to applying my skills and enthusiasm to make a positive impact in the world of cybersecurity.
+ I am a recent graduate with a Bachelor of Science in Computer Science. Throughout my academic journey, I developed a strong passion for cybersecurity, where I explored various techniques for securing systems and protecting data. I am driven by my dedication to solving complex problems and applying innovative solutions to real-world challenges. With a solid foundation in programming, data structures, and network security, I am excited to continue learning and contribute to the ever-evolving field of technology. I look forward to applying my skills and enthusiasm to make a positive impact in the world of cybersecurity.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
