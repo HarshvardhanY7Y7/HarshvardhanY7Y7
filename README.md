@@ -9,7 +9,7 @@
 My journey in computer science has sparked a strong passion for cybersecurity, and I am eager to transition into this field. I am focused on joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can leverage my problem-solving skills, knowledge of security protocols, and ability to analyze security incidents. I am committed to continuously developing my expertise to effectively address the dynamic challenges in cybersecurity and contribute to the protection of organizational systems and data.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +21,7 @@ My journey in computer science has sparked a strong passion for cybersecurity, a
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -44,7 +44,6 @@ My journey in computer science has sparked a strong passion for cybersecurity, a
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
